@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD 2" tvg-logo="" group-title="Akash Bangla",T Sports HD 2
+http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="Akash Bangla",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="Akash Bangla",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla 2" tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Indian-Bangla",Zee Bangla 2
+http://starshare.cx:80/PeH5kPWFfG/infamous7funny/435
+#EXTINF:-1 tvg-id="" tvg-name="World Cup A1 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",World Cup A1 🇧🇩
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1 tvg-id="" tvg-name="World Cup A2 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",World Cup A2 🇧🇩
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",T Sports 🇧🇩
+http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="" tvg-name="BTV Live 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",BTV Live 🇧🇩
+http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV B 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",BTV B 🇧🇩
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Somoy TV 🇧🇩
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV B 🇧🇩" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Somoy TV B 🇧🇩
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toffee Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Toffee Live
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
+#EXTINF:-1 tvg-id="" tvg-name="World Cup S2" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",World Cup S2
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA Live - Bangla 🇮🇳" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",FIFA Live - Bangla 🇮🇳
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIFA Live - Bangla A 🇮🇳" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",FIFA Live - Bangla A 🇮🇳
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unite 8 Sports 1 HD 🇮🇳 Hindi" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Unite 8 Sports 1 HD 🇮🇳 Hindi
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 tvg-id="" tvg-name="616 Sports 4K" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",616 Sports 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Go Live Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Go Live Sports
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Go Live Sports B" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Go Live Sports B
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Football" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",S Football
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 Max Arabic" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Bein Sports 1 Max Arabic
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Bein Sports
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports B 🇵🇰" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",PTV Sports B 🇵🇰
+http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports C 🇵🇰" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",PTV Sports C 🇵🇰
+http://premiumtvs.space/live/jen12345/Jen54321/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports - FIFA 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Fox Sports - FIFA 2026
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 - FIFA 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Fox Sports 1 - FIFA 2026
+http://41.223.30.230/FOXSPORTS1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M6 Spports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",M6 Spports
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caze Tv 🇧🇷 Brazil" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Caze Tv 🇧🇷 Brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Direct" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Dazn Direct
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",TVP Sports
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",TYC Sports
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Azteca" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Tv Azteca
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tudn Sports 🇲🇽" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Tudn Sports 🇲🇽
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fussball Tv B" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Fussball Tv B
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX  HD" tvg-logo="" group-title="Akash Sports",MAX  HD
+https://webott.viatv.com.np/v0t1/CineplexHD.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports 1" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Akash FIFA",T Sports 1
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="Akash FIFA",Bein Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="Akash FIFA",WIN Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Akash Football World Cup 2026",Football World Cup 2026 link hindi
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football World Cup 2026 (4K)" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Akash Football World Cup 2026",Football World Cup 2026 (4K)
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/688290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football World Cup 2026 (4K) 2" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Akash Football World Cup 2026",Football World Cup 2026 (4K) 2
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Football World Cup 2026 (4K) 3" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Akash Football World Cup 2026",Football World Cup 2026 (4K) 3
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
